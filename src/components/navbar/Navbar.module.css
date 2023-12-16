@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px;
+    
+}
+
+nav{
+    display: flex;
+    gap: 2rem;
+    font-size: 30px;
+}
+
+a{
+    color: black;
+    text-decoration: underline;
+}

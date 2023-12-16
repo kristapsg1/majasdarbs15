@@ -1,0 +1,9 @@
+body{
+  box-sizing: border-box;
+  background-color: rgb(235, 235, 217);
+}
+
+main{
+  max-width: 1200px;
+  margin: 40px auto;
+}
